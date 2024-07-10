@@ -10,6 +10,6 @@
 	<body>
 		<h1>HelloStruts2!</h1>
 		<br>
-		<h3><s:property value="result" /></h3>
+		<h3><s:property value="result"/></h3>
 	</body>
 </html>
